@@ -1,12 +1,6 @@
 streamlit
-
 google-generativeai
-
 python-docx
-
 openpyxl
-
 python-pptx
-
-pdf2docx
- 
+pdf2docx 
